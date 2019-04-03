@@ -1,3 +1,6 @@
+
+#shodan : x00AuthMethod=None
+
 cat "iplist" | while read line
 do
 echo "Test $line En Cours .."
